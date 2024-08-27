@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> This project and repository is now archived.
+> There are no further updates or fixes planned.
+
 # Biome Makeover
 [Official Documentation](https://biomemakeover.laserknights.com/)  
 [Discord](https://discord.gg/D5bNnw7)  
@@ -16,10 +20,5 @@ If you wish to contribute, it's best to contact us on Discord first so you don't
 ### Translations
 We welcome and appreciate all translations. If you would like to contribute translations but do not know Git, you can send your translations to us through Discord.
 
-## Licence 
-See our full licence file for details.  
-It's designed so you can't just rip our textures or features fully.  
-Take our code and learn from it, but make something unique.   
-If the project is abandoned (terms listed in the licence file) this repo will default to a MIT licence.
 
 You may be interested in [Taniwha](https://github.com/Lemonszz/taniwha/), the fully open-source library that powers Biome Makeover. The majority on "engine" code is in this library.
