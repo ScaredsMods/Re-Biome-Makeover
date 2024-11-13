@@ -3,9 +3,9 @@
 > Initial code belongs to [Lemonszz / Laserknights](https://github.com/Lemonszz/Biome-Makeover)
 
 # Biome Makeover
-[Official Documentation](https://biomemakeover.laserknights.com/)  
-[Discord](https://discord.gg/D5bNnw7)  
-[Installation Guide](https://biomemakeover.laserknights.com/notes/installation/)  
+[Official Documentation](https://biomemakeover.laserknights.com/) (Not yet remade) 
+[LaserKnight' Discord](https://discord.gg/D5bNnw7) (Our own coming soon)
+[Installation Guide](https://biomemakeover.laserknights.com/notes/installation/) (Not yet remade)
 
 ## Downloads  
 Curseforge ([Forge](https://www.curseforge.com/minecraft/mc-mods/biome-makeover-forge), [Fabric](https://www.curseforge.com/minecraft/mc-mods/biome-makeover))  
