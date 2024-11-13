@@ -1,6 +1,6 @@
 > [!IMPORTANT]  
-> This project and repository is now archived.
-> There are no further updates or fixes planned.
+> We are in no way affiliated to [Lemonszz / LaserKnights](https://github.com/Lemonszz/Biome-Makeover)
+> Initial code belongs to [Lemonszz / Laserknights](https://github.com/Lemonszz/Biome-Makeover)
 
 # Biome Makeover
 [Official Documentation](https://biomemakeover.laserknights.com/)  
