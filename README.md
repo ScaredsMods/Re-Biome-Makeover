@@ -1,6 +1,5 @@
 > [!IMPORTANT]  
-> We are in no way affiliated to [Lemonszz / LaserKnights](https://github.com/Lemonszz/Biome-Makeover)
-
+> We are in no way affiliated to [Lemonszz / LaserKnights](https://github.com/Lemonszz/Biome-Makeover) </br>
 > Initial code belongs to [Lemonszz / Laserknights](https://github.com/Lemonszz/Biome-Makeover)
 
 # Biome Makeover
